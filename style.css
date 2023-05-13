@@ -1,0 +1,10 @@
+/* Set the background color of the sidebar navigation */
+#MainMenu {
+    background-color: #202020;
+}
+
+/* Set the text color of the sidebar navigation */
+#MainMenu a {
+    color: #ffffff;
+}
+     
