@@ -170,5 +170,7 @@ This project is licensed under the MIT License.
 - University of North Texas, Machine Learning Team
 - Kaggle for providing datasets.
 
-## Contact
-For any inquiries or assistance, please contact the project maintainers via the GitHub repository.
+#### In summary, the Multiple Disease Prediction application is a user-friendly tool that uses machine learning algorithms to predict the likelihood of a person having diabetes, heart disease, or Parkinson's disease. By following the above steps, users can easily use this application to make informed decisions about their health.
+
+#### Document Link : [Final Report Link](https://docs.google.com/document/d/17BQyZU0rE5WBRDx_bL8X7WOmgwfvLaJG_NXv8HkWBhs/edit?usp=sharing)
+
